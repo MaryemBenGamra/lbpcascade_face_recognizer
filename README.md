@@ -46,7 +46,7 @@ The result is as follows:
 
 * **Maryem ben gamra** - *optimised work* - [MaryemBenGamra](https://github.com/MaryemBenGamra)
 
-See also the list of [contributors](https://github.com/xaccah/lbpcascade_face_recognizer/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MaryemBenGamra/lbpcascade_face_recognizer/graphs/contributors) who participated in this project.
 
 ## Credits
 
