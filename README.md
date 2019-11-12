@@ -40,12 +40,11 @@ The default data that the module uses it is a 6 pictures of two actors from (SUI
 
 The result is as follows:
 
-![alt text](https://raw.githubusercontent.com/xaccah/lbpcascade_face_recognizer
-/master/Example/example.JPG)
+![Example image](https://github.com/xaccah/lbpcascade_face_recognizer/blob/master/Example/example.JPG)
 
 ## Authors
 
-* **Hassan Muhamad** - *Initial work* - [PurpleBooth](https://github.com/xaccah)
+* **Hassan Muhamad** - *Initial work* - [xaccah](https://github.com/xaccah)
 
 See also the list of [contributors](https://github.com/xaccah/lbpcascade_face_recognizer/graphs/contributors) who participated in this project.
 
