@@ -44,9 +44,13 @@ The result is as follows:
 
 ## Authors
 
-* **Hassan Muhamad** - *Initial work* - [xaccah](https://github.com/xaccah)
+* **Maryem ben gamra** - *optimised work* - [MaryemBenGamra](https://github.com/MaryemBenGamra)
 
 See also the list of [contributors](https://github.com/xaccah/lbpcascade_face_recognizer/graphs/contributors) who participated in this project.
+
+## Credits
+
+* **Hassan Muhamad** - *Initial work* - [xaccah](https://github.com/xaccah)
 
 ## License
 
